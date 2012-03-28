@@ -1,5 +1,4 @@
 #!/usr/local/bin/perl -w
-## Copyright (C) 2012 by Steven S
 
 use strict;
 
